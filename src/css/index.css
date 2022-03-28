@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+.wrapper {
+    width: 100%;
+}
+
+.menu {
+    width: 20%;
+    overflow-y: auto;
+    display: inline-block;
+}
+.main {
+    width: 80%;
+    display: inline;
+}
